@@ -3,7 +3,7 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/ESP32_Basic_Starter_Kit_LTARK_8
-
+<img src='8.png' width='100%'/>
 
 ### Download
 
