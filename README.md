@@ -30,22 +30,6 @@ LONTEN provides free and quick customer support. Including but not limited to:
 * Opinions and suggestions
 * Ideas and thoughts
 
-Please send an email to:
-
-lonten3@qq.com Or Info@lontentech.com
-
-We will reply to you within one working day.
-
-### Purchase
-
-Please visit the following page to purchase our products:
-
-https://www.lontentech.com/
-
-Business customers please contact us through the following email address:
-
-Info@lontentech.com
-
 ### Copyright
 
 All the files in this repository are released under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
@@ -64,7 +48,3 @@ Founded in 2014, Shenzhen Lonten Technology Co., Ltd. focuses on the design, res
 for robotics related products. Consisting of professional researchers and skilled engineers, our R&D team constantly strives
 for creative function and excellent user experience. The company's R&D investments on arduino kits raspberry pi kits, as
 well as 3D printer and robots that back up STEAM education.
-
-Our code and circuit are open source. You can obtain the details and the latest information through visiting the following web site:
-
-https://www.lontentech.com/
